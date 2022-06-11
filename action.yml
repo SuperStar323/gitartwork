@@ -1,14 +1,14 @@
-name: gitartwork on contribution graph
+name: gitartwork on contribution graph by atosinu
 description: gitartwork on users contribution graph
 author: jasineri
 inputs:
   user_name:
     description: Username
-    default: jasineri
+    default: atosinu
     required: true
   text:
     description: Text on contribution graph
-    default: JASINERI
+    default: ATOSINU
     required: true
   svg_file_name:
     description: 'SVG file name (optional), default: gitartwork.svg'
